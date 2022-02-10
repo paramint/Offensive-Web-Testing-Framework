@@ -43,7 +43,7 @@
     "extract-text-webpack-plugin": "^3.0.0",
     "file-loader": "^0.11.2",
     "gulp": "^3.9.1",
-    "node-sass": "^4.5.3",
+    "node-sass": "^7.0.0",
     "normalize.css": "^4.2.0",
     "postcss-loader": "^0.9.1",
     "react-addons-css-transition-group": "^15.2.1",
